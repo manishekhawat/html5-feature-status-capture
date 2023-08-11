@@ -1,14 +1,15 @@
-# [PACKAGE_NAME]
+# @techbana/html5-feature-capture
 
-### [PACKAGE_DESCRIPTION]
+### This package helps in checking which html5 features are supported by user's browsers
+
 
 > ### _Note: This package can do what it promises, however this package is still under active development for feature enhancements. Please contribute back if you are able to find bugs/issues or want to contribute feature update to the package._
 
-> _Keeping this package as open source for everyone to know [PACKAGE_PURPOSE]._
+> _Keeping this package as open source for everyone to know how to check html5 features supported by user's browser._
 
 ## Installation
 
-`npm i [PACKAGE_NAME]`
+`npm i @techbana/html5-feature-capture`
 
 ## Usage
 
@@ -42,7 +43,7 @@ Simple
 
 ## Contributing
 
-The main purpose of this repository is to continue evolving `[PACKAGE_NAME]`, making it faster and easier to use. Development of `[PACKAGE_NAME]` happens in the open on GitHub, and we are grateful to the community for contributing bugfixes and improvements. Read below to learn how you can take part in improving `[PACKAGE_NAME]`.
+The main purpose of this repository is to continue evolving `@techbana/html5-feature-capture`, making it faster and easier to use. Development of `@techbana/html5-feature-capture` happens in the open on GitHub, and we are grateful to the community for contributing bugfixes and improvements. Read below to learn how you can take part in improving `@techbana/html5-feature-capture`.
 
 ### Code of Conduct
 
@@ -50,12 +51,12 @@ We have adopted a Code of Conduct that we expect project participants to adhere 
 
 ### Contributing Guide
 
-Read our [contributing guide](./CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to `[PACKAGE_NAME]`.
+Read our [contributing guide](./CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to `@techbana/html5-feature-capture`.
 
 ### Good First Issues
 
-To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/USERNAME/REPO_NAME/labels/good%20first%20issue) that contain bugs that have a relatively limited scope. This is a great place to get started.
+To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/manishekhawat/html5-feature-status-capture/labels/good%20first%20issue) that contain bugs that have a relatively limited scope. This is a great place to get started.
 
 ### License
 
-`[PACKAGE_NAME]` is [MIT licensed](./LICENSE).
+`@techbana/html5-feature-capture` is [MIT licensed](./LICENSE).

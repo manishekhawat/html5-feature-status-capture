@@ -1,7 +1,7 @@
 {
-  "name": "[PACKAGE_NAME]",
-  "version": "[PACKAGE_VERSION]",
-  "description": "[WHAT DOES THE PACKAGE DO]",
+  "name": "@techbana/html5-feature-capture",
+  "version": "0.1.0",
+  "description": "This package helps in checking which html5 features are supported by user's browsers",
   "main": "./lib/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
@@ -21,21 +21,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/REPO_NAME.git"
+    "url": "https://github.com/manishekhawat/html5-feature-status-capture.git"
   },
   "keywords": [
-    "[KEYWORDS_1]",
-    "[KEYWORDS_2]",
-    "[KEYWORDS_3]",
-    "[KEYWORDS_4]",
-    "[KEYWORDS_5]"
+    "html5",
+    "feature",
+    "capture",
+    "status",
+    "detect"
   ],
-  "author": "@USERNAME",
+  "author": "@manishekhawat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/USERNAME/REPO_NAME/issues"
+    "url": "https://github.com/manishekhawat/html5-feature-status-capture/issues"
   },
-  "homepage": "https://github.com/USERNAME/REPO_NAME#readme",
+  "homepage": "https://github.com/manishekhawat/html5-feature-status-capture/blob/main/README.md",
   "devDependencies": {
     "@jest/globals": "^29.5.0",
     "@types/node": "^18.16.3",
